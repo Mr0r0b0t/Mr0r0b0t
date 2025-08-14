@@ -1,20 +1,24 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Vivek Singh Banner" width="100%"/>
-</p>
+<!-- Responsive banner for light/dark modes -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner_dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="banner_light.png" />
+  <img src="banner_light.png" alt="Vivek Singh Banner" width="100%" />
+</picture>
 
-<!-- Typing Animation Intro -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Singh+%F0%9F%91%8B;Senior+Full+Stack+Developer;SaaS+%7C+Automation+%7C+CAD+Systems;Django+%7C+React+%7C+MySQL+%7C+AWS;Clean+Architecture+Advocate;AI+Assisted+Development+Enthusiast" alt="Typing SVG">
-  </a>
-</h1>
+<!-- Cumulative typing animation (auto-switch for dark/light) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="typing_dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="typing_light.gif" />
+    <img src="typing_light.gif" alt="Typing intro" />
+  </picture>
+</p>
 
 ---
 
 ## 💡 About Me
 I'm a **Full Stack Developer** with **6+ years** of experience designing, developing, and deploying scalable, production-ready applications.  
-Currently leading product development at **[ZERØTEC](#)** — a fashion-tech company — where I combine backend expertise in **Django** and frontend finesse in **React**, along with **C++ CAD plugins** for automation.  
+Currently leading product development at **ZERØTEC** — a fashion-tech company — where I combine backend expertise in **Django** and frontend finesse in **React**, along with **C++ CAD plugins** for automation.  
 
 I also leverage **AI-assisted development** tools like ChatGPT & Cursor to speed up coding, debugging, and research.
 
