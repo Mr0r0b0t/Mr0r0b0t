@@ -5,14 +5,16 @@
   <img src="banner_light.png" alt="Vivek Singh Banner" width="100%" />
 </picture>
 
-<!-- Cumulative typing animation (auto-switch for dark/light) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="typing_dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="typing_light.gif" />
-    <img src="typing_light.gif" alt="Typing intro" />
-  </picture>
-</p>
+<!-- Typing Animation Intro -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=28&color=FFFFFF&center=true&vCenter=true&width=600&duration=2500&pause=500&lines=Hi+there%2C+I'm+Vivek+Singh+%F0%9F%91%8B;Senior+Full+Stack+Developer;SaaS+%7C+Automation+%7C+CAD+Systems;Django+%7C+React+%7C+MySQL+%7C+AWS;Clean+Architecture+Advocate;AI+Assisted+Development+Enthusiast" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?size=28&color=000000&center=true&vCenter=true&width=600&duration=2500&pause=500&lines=Hi+there%2C+I'm+Vivek+Singh+%F0%9F%91%8B;Senior+Full+Stack+Developer;SaaS+%7C+Automation+%7C+CAD+Systems;Django+%7C+React+%7C+MySQL+%7C+AWS;Clean+Architecture+Advocate;AI+Assisted+Development+Enthusiast" />
+      <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Singh+%F0%9F%91%8B;Senior+Full+Stack+Developer;SaaS+%7C+Automation+%7C+CAD+Systems;Django+%7C+React+%7C+MySQL+%7C+AWS;Clean+Architecture+Advocate;AI+Assisted+Development+Enthusiast" alt="Typing SVG">
+    </picture>
+  </a>
+</h1>
 
 ---
 
