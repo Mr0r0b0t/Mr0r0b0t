@@ -3,11 +3,6 @@
   <img src="banner.png" alt="Vivek Singh Banner" width="100%"/>
 </p>
 
-<!-- Profile Photo -->
-<p align="center">
-  <img src="profile.png" alt="Vivek Singh" width="150" style="border-radius:50%;"/>
-</p>
-
 <!-- Typing Animation Intro -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
